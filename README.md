@@ -53,3 +53,6 @@ youtube
 twitch
 -minimize screen
 -chat overlay
+
+
+I want to make an app for car fans to upload their cars and their specs.
