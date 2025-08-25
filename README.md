@@ -42,3 +42,14 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+App Brainstorming
+
+tiktok 
+- hold side for 2x speed
+- slide for profile
+youtube
+- minimize screen
+- loading screen
+twitch
+-minimize screen
+-chat overlay
